@@ -1,6 +1,6 @@
 ﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoli23&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoli23" /> </p>
 ---
-I currently work with data ingest (ETL), using python integrated with aws, I am passionate about learning
+I currently working with data ingest (ETL), using python integrated with aws, I am passionate about learning
 
 
 ## Badges
