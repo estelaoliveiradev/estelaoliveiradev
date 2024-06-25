@@ -1,4 +1,4 @@
-﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoli23&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoli23" /> </p>
+﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
 ---
 I currently working with data ingest (ETL), using python integrated with aws, I am passionate about learning
 
@@ -21,7 +21,7 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
  </a>
  </p>
  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoli23&layout=compact&theme=highcontrast&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estelaoliveiradev&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoliveiradev&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Working with: <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
