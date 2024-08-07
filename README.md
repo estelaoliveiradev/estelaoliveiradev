@@ -70,8 +70,7 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
 
 <!-- ESTUDANDO NESSE MOMENTO -->
 ### Studying in this moment:
-
-##### BTI - Univesp - 2024
+ <a href="https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao" target="_blank">BTI - Univesp - 2024</a>
 
 
 
