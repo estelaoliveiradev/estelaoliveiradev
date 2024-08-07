@@ -8,7 +8,7 @@
    <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Lais&nbsp;Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto: violaum2015@gmail.com" target="_blank">
-    <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/laisfd@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/estela.oliveira.cont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
