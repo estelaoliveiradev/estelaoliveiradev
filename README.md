@@ -13,11 +13,11 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
  </a>
   </a>
  <a href="https://www.credly.com/badges/db28c10b-1dab-43a8-82e4-afe481df14f7/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8558-d25d2d43083c/image.png" width=100 height=85> 
+ <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width=100 height=85> 
  </a>
  </a>
  <a href="https://www.credly.com/badges/db28c10b-1dab-43a8-82e4-afe481df14f7" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/3bb81f31-b826-4462-8558-d25d2d43083c/image.png" width=100 height=85> 
+ <img src="https://images.credly.com/size/340x340/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width=100 height=85> 
  </a>
   </a>
  <a href="https://www.credly.com/earner/earned/badge/88ada590-5cf5-4a89-9bbf-17051c8854ab" target="_blank">
