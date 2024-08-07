@@ -9,19 +9,19 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
  <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url" target="_blank">
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100 height=90> 
   <a href="https://www.credly.com/badges/22739c64-5367-49b8-9529-bb30a1697648/linked_in?t=sf2sp0" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/1253a20d-203c-4077-a7c8-7289af825486/image.png" width=96 height=87> 
+ <img src="https://images.credly.com/size/340x340/images/1253a20d-203c-4077-a7c8-7289af825486/image.png" width=96 height=85> 
  </a>
   </a>
  <a href="https://www.credly.com/badges/db28c10b-1dab-43a8-82e4-afe481df14f7/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width=100 height=87> 
+ <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8558-d25d2d43083c/image.png" width=100 height=85> 
  </a>
  </a>
  <a href="https://www.credly.com/badges/db28c10b-1dab-43a8-82e4-afe481df14f7" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width=100 height=87> 
+ <img src="https://images.credly.com/size/340x340/images/3bb81f31-b826-4462-8558-d25d2d43083c/image.png" width=100 height=85> 
  </a>
   </a>
  <a href="https://www.credly.com/earner/earned/badge/88ada590-5cf5-4a89-9bbf-17051c8854ab" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width=100 height=87> 
+ <img src="https://images.credly.com/size/340x340/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width=100 height=85> 
  </a>
  </p>
  
