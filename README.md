@@ -1,6 +1,6 @@
 ﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
 ---
-I currently working with data ingest (ETL), using python integrated with aws, I am passionate about learning
+I currently work with data ingestion (ETL) and observability, in the aws cloud, I am passionate about learning and I intend to enter the area of data engineering
 
 
 ## Badges
