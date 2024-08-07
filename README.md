@@ -48,8 +48,6 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=35 height=35/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=35 height =35/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
 </p>
 
 
