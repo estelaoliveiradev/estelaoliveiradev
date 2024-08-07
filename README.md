@@ -48,6 +48,7 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=35 height=35/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=35 height =35/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" width=35 height=35 />
 </p>
 
 
@@ -58,6 +59,9 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=35 height=35 />
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=35 height=35 />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width=35 height=35 />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width=35 height=35 />
 
  <p float="left">
 
