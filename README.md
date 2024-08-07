@@ -1,8 +1,17 @@
-﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
+﻿### Hi Everyone! I'm Estela de Oliveira 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
 ---
-I currently work with data ingestion (ETL) and observability, in the aws cloud, I am passionate about learning and I intend to enter the area of data engineering
 
-
+<p>🔭 I'm  a Software Engineer, aspiring Data Engineer</p>
+<p>💼 I'm currently working at Itau Unibanco S/A </p>
+<p>📫 How to reach me:
+  <a href="https://www.linkedin.com/in/estela-oliveira-989628104/" target="_blank">
+   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Lais&nbsp;Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto: violaum2015@gmail.com" target="_blank">
+    <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/laisfd@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+#### I currently work with data ingestion (ETL) and observability, in the aws cloud, I am passionate about learning and I intend to enter the area of data engineering
 ## Badges
  <p float="left">
  </a>
