@@ -11,7 +11,7 @@
     <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/laisfd@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-#### I currently work with data ingestion (ETL) and observability, in the aws cloud, I am passionate about learning and I intend to enter the area of data engineering
+
 ## Badges
  <p float="left">
  </a>
