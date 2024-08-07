@@ -61,6 +61,8 @@ I currently working with data ingest (ETL), using python integrated with aws, I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=35 height=35 />
+ <img src="![image](https://github.com/user-attachments/assets/d22c1b79-3b13-48f0-8c1b-57774b6a23ec)" width=35 height=35 />
+
  <p float="left">
 
 
