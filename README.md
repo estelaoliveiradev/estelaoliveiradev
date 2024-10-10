@@ -16,7 +16,7 @@
  <p float="left">
  </a>
  <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=108 height=90> 
+ <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=115 height=90> 
   <a href="https://www.credly.com/badges/22739c64-5367-49b8-9529-bb30a1697648/linked_in?t=sf2sp0" target="_blank">
  <img src="https://images.credly.com/size/340x340/images/1253a20d-203c-4077-a7c8-7289af825486/image.png" width=105 height=85> 
  </a>
