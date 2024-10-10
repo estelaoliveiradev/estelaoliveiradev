@@ -34,8 +34,7 @@
  </a>
  </p>
  
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoliveiradev&layout=compact&theme=highcontrast&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoliveiradev&layout=compact&theme=highcontrast&hide_border=true" /></a> 
 
 ### Working with: <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
 - [x] [ETL/ELT na AWS](https://aws.amazon.com/pt/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pasta-cloud.png" width=17 height=17 />
