@@ -10,6 +10,10 @@
   <a href="mailto: violaum2015@gmail.com" target="_blank">
     <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/estela.oliveira.cont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@violaum2015" target="_blank">
+  <img align="center" height="22" alt="medium" src="https://img.shields.io/badge/medium-000000?logo=medium"/>
+  
+  </a>
 </p>
 
 ## Badges
