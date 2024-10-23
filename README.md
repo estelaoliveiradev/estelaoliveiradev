@@ -4,16 +4,17 @@
 <p>🔭 I'm  a Software Engineer, aspiring Data Engineer</p>
 <p>💼 I'm currently working at Itau Unibanco S/A </p>
 <p>📫 How to reach me:
+    </a>
+  <a href="https://medium.com/@violaum2015" target="_blank">
+  <img align="center" height="22" alt="medium" src="https://img.shields.io/badge/medium-000000?logo=medium"/>
+  
+  </a>
   <a href="https://www.linkedin.com/in/estela-oliveira-989628104/" target="_blank">
    <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Estela&nbsp;Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto: violaum2015@gmail.com" target="_blank">
     <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/estela.oliveira.cont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@violaum2015" target="_blank">
-  <img align="center" height="22" alt="medium" src="https://img.shields.io/badge/medium-000000?logo=medium"/>
-  
-  </a>
+
 </p>
 
 ## Badges
