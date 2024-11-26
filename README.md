@@ -1,7 +1,7 @@
 ﻿### Hi Everyone! I'm Estela de Oliveira 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
 ---
 
-<p>🔭 I'm  a Software Engineer, aspiring Data Engineer</p>
+<p>🔭 I'm  a Software Engineer,deeping in Data Engineer</p>
 <p>💼 I'm currently working at Itau Unibanco S/A </p>
 <p>📫 How to reach me:
     </a>
