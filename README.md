@@ -50,7 +50,8 @@
 - [x] [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) 
 - [x] [Python](https://www.python.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pitao.png" width=17 height=17 />
 - [x] [TDD](https://engsoftmoderna.info/artigos/ddd.html#:~:text=Os%20princ%C3%ADpios%20defendidos%20por%20DDD,neg%C3%B3cio%20que%20ele%20pretende%20resolver.)
-- [x] [Arquitetura orientada a eventos](https://www.djangoproject.com/](https://aws.amazon.com/pt/event-driven-architecture/))
+- [x] [Arquitetura orientada a eventos](https://aws.amazon.com/pt/what-is/eda/)
+- [x] [LINUX](https://www.linux.org/pages/download/)
       
 ### Ask me about:
 <p float="left">
