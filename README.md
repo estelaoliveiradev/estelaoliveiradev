@@ -89,10 +89,14 @@
 ### Studying in this moment:
 
 <p float="left">
+    
  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width=35 height=35 />
+    
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width=35 height=35 />
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width=35 height=35 />
-    <img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/logos/databricks.svg" width=55 height=55 />
+ 
+ <img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/logos/databricks.svg" width=55 height=55 />
 </p>
 
 
