@@ -87,7 +87,9 @@
 
 <!-- ESTUDANDO NESSE MOMENTO -->
 ### Studying in this moment:
- <a href="https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao" target="_blank">BTI - Univesp - 2024</a>
+ <a href="//commons.wikimedia.org/w/index.php?title=User:Agrawroh&amp;action=edit&amp;redlink=1" class="new" title="User:Agrawroh (page does not exist)">Agrawroh</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89962041">Link</a>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width=35 height=35 />
+
 
 
 
