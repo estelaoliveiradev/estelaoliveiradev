@@ -14,7 +14,7 @@
   </a>
   <a href="mailto: violaum2015@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/estela.oliveira.cont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c64b8704-d633-425b-9fc2-b00c96c2f74d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </p>
 
 ## Badges
@@ -36,6 +36,9 @@
  </a>
  <a href="https://www.credly.com/badges/8d0b73c4-38ca-4a07-86a5-3f832cd3cc88" target="_blank">
  <img src="https://images.credly.com/size/340x340/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" width=115 height=105> 
+ </a>
+ <a href="https://www.credly.com/badges/8d0b73c4-38ca-4a07-86a5-3f832cd3cc88" target="_blank">
+ <img src="https://images.credly.com/size/110x110/images/7b72426a-35ac-45c3-965d-8008b3493f9e/image.png" width=115 height=105> 
  </a>
 
 
