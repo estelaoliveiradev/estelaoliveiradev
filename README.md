@@ -41,7 +41,7 @@
  <img src="https://images.credly.com/size/110x110/images/7b72426a-35ac-45c3-965d-8008b3493f9e/image.png" width=115 height=105> 
  </a>
 <a href="https://www.credly.com/badges/71f3102a-91e4-4365-9535-d8aece6a426d/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/7b72426a-35ac-45c3-965d-8008b3493f9e/image.png" width=115 height=105> 
+ <img src="https://images.credly.com/size/110x110/images/4026d6c5-465f-4d1e-9188-2d2bbbdf22d8/blob" width=115 height=105> 
  </a>
 
  </p>
