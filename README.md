@@ -1,109 +1,69 @@
-﻿### Hi Everyone! I'm Estela de Oliveira 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoliveiradev" /> </p>
+<h1 align="center">Hi there! I'm Estela de Oliveira 👋</h1>
+<h3 align="center">Data Engineer | Problem Solver | Cloud Architecture Enthusiast</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=estelaoliveiradev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
 ---
 
-<p>🔭 I'm  Data Engineer deeping in GenAI com AWS, Azure e Databricks</p>
-<p>💼 I'm currently working at Itau Unibanco S/A </p>
-<p>📫 How to reach me:
-    </a>
-  <a href="https://medium.com/@violaum2015" target="_blank" rel="noopener noreferrer">
-  <img align="center" height="22" alt="medium" src="https://img.shields.io/badge/medium-000000?logo=medium"/>
-  
-  </a>
-  <a href="https://www.linkedin.com/in/estela-oliveira-989628104/" target="_blank" rel="noopener noreferrer">
-   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Estela&nbsp;Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto: violaum2015@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/estela.oliveira.cont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+### 👩🏻‍💻 About Me
 
+I'm a Data Engineer focused on solving complex problems and designing scalable data architectures. Currently working at **Itaú Unibanco**, I specialize in building event-driven ETL/ELT pipelines on AWS for the financial market, dealing with complex transactional data (Derivatives, Swaps, Options).
+
+- 🔭 **Currently working on:** Designing and implementing distributed cross-account data flows using AWS (SNS, Lambda, Step Functions, EMR) for automated accounting reconciliation.
+- 💡 **My approach:** I act as a technical reference in *discovery* phases, collaborating to define architectural solutions before writing code.
+- ⚡ **Innovation:** I leverage containerized environments (Docker/RHEL) and AI tools (Claude, Devin) using advanced context and skills to optimize my Python/Flask development and boost engineering efficiency.
+- 🌱 **Currently exploring:** Expanding my Cloud and IaC toolkit with Azure, Databricks, and Terraform.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Data Engineering & Architecture:**  
+![Apache Spark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
+
+**Languages:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🏆 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/users/estela-oliveira" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/1253a20d-203c-4077-a7c8-7289af825486/image.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/7b72426a-35ac-45c3-965d-8008b3493f9e/image.png" width="80" />
+  </a>
 </p>
 
-## Badges
- <p float="left">
- </a>
- <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=115 height=105> 
-  <a href="https://www.credly.com/badges/22739c64-5367-49b8-9529-bb30a1697648/linked_in?t=sf2sp0" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/1253a20d-203c-4077-a7c8-7289af825486/image.png" width=105 height=85> 
- </a>
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoliveiradev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/estela-oliveira-989628104/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- <a href="https://www.credly.com/badges/db28c10b-1dab-43a8-82e4-afe481df14f7/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png" width=115 height=105> 
- </a>
-   </a>
- <a href="https://www.credly.com/earner/earned/badge/88ada590-5cf5-4a89-9bbf-17051c8854ab" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/27224c08-f61c-4d82-b929-325f96af326a/image.png" width=115 height=105> 
- </a>
- </a>
- <a href="https://www.credly.com/badges/8d0b73c4-38ca-4a07-86a5-3f832cd3cc88" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/57cd0782-e05d-40f6-ac99-139e8727b945/image.png" width=115 height=105> 
- </a>
- <a href="https://www.credly.com/badges/c64b8704-d633-425b-9fc2-b00c96c2f74d/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/7b72426a-35ac-45c3-965d-8008b3493f9e/image.png" width=115 height=105> 
- </a>
-<a href="https://www.credly.com/badges/71f3102a-91e4-4365-9535-d8aece6a426d/public_url" target="_blank">
- <img src="https://images.credly.com/size/110x110/images/4026d6c5-465f-4d1e-9188-2d2bbbdf22d8/blob" width=115 height=105> 
- </a>
-
- </p>
- 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoliveiradev&layout=compact&theme=highcontrast&hide_border=true" /></a> 
-
-### Working with: <img src = "https://github.com/ste2021/images-icons/blob/master/programmer.svg" width=25 height=30 />
-- [x] [ETL/ELT na AWS](https://aws.amazon.com/pt/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pasta-cloud.png" width=17 height=17 />
-- [x] [Kafka](https://kafka.apache.org/))
-- [x] [MySQL](https://www.w3schools.com/sql/)  <img src = "https://github.com/ste2021/images-icons/blob/master/mysql.png" width=17 height=17 />
-- [x] [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) 
-- [x] [Python](https://www.python.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/pitao.png" width=17 height=17 />
-- [x] [TDD](https://engsoftmoderna.info/artigos/ddd.html#:~:text=Os%20princ%C3%ADpios%20defendidos%20por%20DDD,neg%C3%B3cio%20que%20ele%20pretende%20resolver.)
-- [x] [Arquitetura orientada a eventos](https://aws.amazon.com/pt/what-is/eda/)
-- [x] [LINUX](https://www.linux.org/pages/download/)
-      
-### Ask me about:
-<p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=35 height=35/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=35 height =35/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" width=35 height=35 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=35 height=35 />
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width=35 height=35 />
+  <a href="mailto:estela.oliveira.cont@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@violaum2015" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
-
-
-### Delving deeper into the following technologies
-<p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rains" style="max-width:100%;" width=35 height=35/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=35 height=35/>
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=35 height=35 />
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width=35 height=35 />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" width=35 height=35 />
-
- <p float="left">
-
-
-<!-- ESTUDANDO NESSE MOMENTO -->
-### Studying in this moment:
-
-<p float="left">
-    
- <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width=35 height=35 />
-    
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width=35 height=35 />
- 
- <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width=35 height=35 />
- 
- <img src="https://github.com/jupyter/jupyter.github.io/blob/main/assets/logos/databricks.svg" width=55 height=55 />
-</p>
-
-
-
-
