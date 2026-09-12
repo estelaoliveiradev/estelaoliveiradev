@@ -12,7 +12,7 @@
 I'm a Data Engineer focused on solving complex problems and designing scalable data architectures. Currently working at **Itaú Unibanco**, I am increasingly specializing in building event-driven ETL/ELT pipelines on AWS for the financial sector, handling complex transactional data (derivative investment products such as NDFs, swaps, and options).
 
 - 🔭 **Currently working on:** Designing and implementing distributed cross-account data flows using AWS (Glue, EventBridge, SQS, SNS, Lambda, Step Functions, EMR) for automated accounting reconciliation.
-- 💡 **My approach:** I act as a technical reference in *discovery* phases, collaborating to define architectural solutions before writing code.
+- 💡 **My approach:**  I provide strategic support to the team during the discovery phases, collaborating on the design of architectural solutions before coding begins.
 - ⚡ **Innovation:** I leverage containerized environments (Docker/RHEL) and AI tools (Claude, Devin) using advanced context and skills to optimize my Python/Flask development and boost engineering efficiency.
 - 🌱 **Currently exploring:** Expanding my Cloud and IaC toolkit with Azure, Databricks, and Terraform.
 
